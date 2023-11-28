@@ -1,0 +1,11 @@
+// якщо використовуємо для тестів jest то краще щоб був конфіг
+// {
+//     "presets": [
+//         "@babel/preset-env", 
+//         "@babel/preset-typescript",
+//         ["@babel/preset-react", {
+//             "runtime": "automatic"
+//         }]
+//     ]
+// }
+{}
